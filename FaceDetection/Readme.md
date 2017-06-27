@@ -8,4 +8,4 @@ Solution to AnalyticsVidhya's Age Detection Classification Problem using Keras a
 - model.ipynb - Artificial neural network model built using TFLearn. (Accuracy - 0.58)
 
 ## Links
-- (Practice Problem: Age Detection of Indian Actors)[https://datahack.analyticsvidhya.com/contest/practice-problem-age-detection/]
+- [Practice Problem: Age Detection of Indian Actors](https://datahack.analyticsvidhya.com/contest/practice-problem-age-detection/)
